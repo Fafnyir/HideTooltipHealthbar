@@ -1,0 +1,10 @@
+## Interface: 120000, 120001
+
+## Title: Hide Tooltip Healthbar
+## Notes: Hides the health bar from the default tooltip.
+## Author: Fwank
+## Version: 1.0
+## IconTexture: Interface\AddOns\HideTooltipHealthbar\logo\AddonLogo
+## X-Wago-ID: kGr0xM6y
+
+HideTooltipHealthbar.lua
