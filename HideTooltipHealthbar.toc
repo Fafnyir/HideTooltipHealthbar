@@ -5,6 +5,6 @@
 ## Author: Fafnyir
 ## Version: 1.0
 ## IconTexture: Interface\AddOns\HideTooltipHealthbar\logo\AddonLogo
-## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|ry
+## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
 
 HideTooltipHealthbar.lua
