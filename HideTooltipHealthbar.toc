@@ -2,9 +2,9 @@
 
 ## Title: Hide Tooltip Healthbar
 ## Notes: Hides the health bar from the default tooltip.
-## Author: Fwank
+## Author: Fafnyir
 ## Version: 1.0
 ## IconTexture: Interface\AddOns\HideTooltipHealthbar\logo\AddonLogo
-## X-Wago-ID: kGr0xM6y
+## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|ry
 
 HideTooltipHealthbar.lua
